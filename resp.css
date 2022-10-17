@@ -1,0 +1,207 @@
+button#search:hover{
+    border-color: orange;
+}
+#btnbtncart{
+    color: #C0C0C0;
+}
+#btnbtncart:hover{
+    color: chocolate;
+}
+#ho{
+    width: 180px;
+    text-align: center;
+
+}
+#ebuttons{
+    color: #C0C0C0;
+}
+#ebuttons:hover{
+    color: chocolate;
+}
+#firstline{
+   text-align: center;
+   background-color: orange;
+   border: solid orange;
+}
+#coloumnspecial{
+display: flex;
+flex-wrap: nowrap;
+width: 300px;
+height: 310px;
+margin: 40px;
+
+}
+#coloumnspecial:hover{
+    transform: scale(1.05) ;
+}
+
+
+
+body{
+    background-color: orange;
+}
+#heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heading2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#secondline{
+    padding-top: 2rem;
+}
+#mainpic1{
+   border-radius:20px;
+   margin: auto;
+   width: 100% ;
+   height: 100%;
+}
+
+#mainpic2{
+    border-radius:20px;
+    margin: auto;
+    width: 100% ;
+    height: 100%;
+ }
+ #mainpic3{
+    border-radius:20px;
+    margin: auto;
+    width: 100% ;
+    height: 100%;
+ }
+ #off{
+    background-color: rgb(255, 87, 51);
+ }
+#bgimgpc1{
+ 
+    background-image: url(./grilled-meat-skewers-chicken-shish-kebab-with-zucchini-tomatoes-red-onions.jpg);
+    background-size: 100%;
+
+}
+#bgimgpc2{
+ 
+    background-image: url(https://media.istockphoto.com/photos/selection-of-american-food-picture-id931308812);
+    background-size: 100%;
+
+}
+ #bgimgpc3{
+ 
+     background-image: url(./traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table.jpg);
+     background-size: 100%;
+
+}
+#btnall
+{
+    border-radius: 0.5rem;
+    border: none;
+    background-color:rgba(255, 77, 0, 0.907);
+    width: 6rem;
+    height: 35px;
+    color: aliceblue;
+
+}
+#btnall:hover{
+    background-color:orangered;
+
+}
+#ffacts{
+    align-items: center;
+    width:24rem;
+    height:100%;
+    background-color: black;
+    
+}
+#facts{
+    color: #C0C0C0;
+}
+#row84{
+    background-image: url(https://media.istockphoto.com/photos/gray-polygonal-background-picture-id905292830?b=1&k=20&m=905292830&s=170667a&w=0&h=lTmis7s0FpK8clsaAHpNB8m1bxjWNIc-khOhQwv5QS0=);
+    border-radius: 2rem;
+
+}
+#ftext{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    font-style: italic;
+}
+#lastdetails{
+    background-color: #1f1f1f;
+    width :2000px;
+    height :400px;
+}
+#colorlast{
+    color: #C0C0C0;
+    margin: 10px;
+}
+.tdeco:hover{
+    color:orangered;
+}
+.tdeco{
+    text-decoration: none;
+    color: #C0C0C0;
+    margin:2rem;
+    font-size: 12px;
+}
+#unlistlast{
+    list-style: none;
+    text-align: left;
+    height: 400px;
+    padding-top: 4rem;
+}
+#lastbu{
+    border-radius: 0.5rem;
+    text-align: center;
+    width: 9rem;
+    height: 45px;
+    border: none;
+    background-color:rgba(255, 77, 0, 0.907);
+    
+}
+#lastbu:hover{
+    border-radius: 1rem;
+    text-align: center;
+    width: 12rem;
+    height: 55px;
+    border: none;
+    background-color:orangered;
+    font-size: larger;
+    
+}
+
+
+.one{
+    margin: 2rem;
+    text-align: left;
+    color: #C0C0C0;
+    
+}
+.two{
+    margin: 2rem;
+    text-align: center;
+}
+
+#menuheading{
+    margin-left: 2rem;
+}
+#picofmenu{
+    width: 200px;
+    height: 350px ;
+    margin: 2rem;
+}
+.picmenubutton{
+    border: solid orangered ;
+    border-radius :20px;
+    margin: 3rem;
+    flex-wrap: nowrap;
+}
+
+.picmenubutton:hover{
+  transform: scale(1.25);
+}

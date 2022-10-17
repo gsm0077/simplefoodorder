@@ -1,0 +1,103 @@
+button#search:hover{
+    border-color: orange;
+}
+
+#ho{
+    width: 180px;
+    text-align: center;
+}
+#ebuttons{
+    color: #C0C0C0;
+}
+#ebuttons:hover{
+    color: chocolate;
+}
+#firstline{
+   margin: 2rem;
+   
+   text-align: center;
+}
+#bbb:hover{
+    width: 22rem;
+    height: 22rem;
+    align-self: center;
+}
+#btnbtncart{
+    color: #C0C0C0;
+}
+#btnbtncart:hover{
+    color: chocolate;
+}
+
+
+#combop{
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.vessel{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.textc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.carder{
+    background-color: orangered;
+    height: 360px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 1rem;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.carder:hover{
+    transform : scale(1.05);
+    background-color: black;
+    color: orangered;
+}
+
+.imageofcard{
+    height: 250px;
+    background-color: brown;
+    background-size: cover;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.img1{
+    background-image: url(./bahubali\ thali.jpg);
+}
+.img2{
+    background-image: url(./mini\ thali.jpg);
+}
+.img3{
+    background-image: url(./non\ veg\ thali.jpg);
+}
+.img4{
+    background-image: url(./CHINESE\ THALI.jpg);
+}
+.img5{
+    background-image: url(./mini\ thali.jpg);
+}
+#btnall
+{
+    border-radius: 0.5rem;
+    border: none;
+    background-color:orange;
+    width: 6rem;
+    height: 35px;
+
+}
+#btnall:hover{
+    background-color:orangered;
+
+}
+#linkbtn{
+    text-decoration: none;
+    color: aliceblue;
+}
